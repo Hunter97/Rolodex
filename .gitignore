@@ -1,0 +1,6 @@
+*.ilk
+*.pdb
+*.txt
+*.obj
+RolodexProject/Debug/
+*.ipch
